@@ -4,48 +4,18 @@
 
 ### Hi 👋, I'm Oleksandr.
 
-<h2>Professional Automation Quality Assurance Engineer / Software Development Engineer in Test</h2>
-
-<style>
-.item {
-    vertical-align: top;
-    display: inline-block;
-    text-align: center;
-    width: 120px;
-}
-img { 
-    width: 100px;
-    height: 100px;
-    
-}
-.caption {
-    display: block;
-}
-</style>
-
-<figure class="item">
-    <img  alt="TypeScript" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-    <figcaption class="caption">TypeScript</figcaption>
-</figure>
-<figure class="item">
-    <img  alt="JavaScript" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-    <figcaption class="caption">JavaScript</figcaption>
-</figure>
-
-
-
-
-
-
-
-You can get the next QA Services when you work with me:  
-• QA Automation framework from scratch  
-• Manual/Automation Web Testing  
-• Manual/Automation Mobile App Testing (IOS / Android)  
-• Functional Testing/Regression/Acceptance Testing  
-• Performance Testing  
-• User Acceptance Testing  
-
+## Professional Automation Quality Assurance Engineer / Software Development Engineer in Test
+Constantly learning new things and interested in difficult tasks  
+  
+---
+What you can get when work with me:  
+  * QA Automation framework from scratch  
+  * Manual/Automation Web Testing  
+  * Manual/Automation Mobile App Testing (IOS / Android)  
+  * Functional Testing/Regression/Acceptance Testing  
+  * Performance Testing  
+  * User Acceptance Testing  
+---
 ### Languages
 <img align="left" alt="JavaScript" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 <img align="left" alt="TypeScript" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
@@ -85,14 +55,7 @@ You can get the next QA Services when you work with me:
 <br />
 <br /> 
 
-• 💪 I like to write code  
-• 🥅 I am constantly learning new things  
-• 👀 I’m interested in difficult tasks  
-• ⚡ I love writing an article for https://artstroy.net/  
-
-
-
-
+---
 
 <h4 align="center">
   📫 Let's Connect and have a Chat!💬
