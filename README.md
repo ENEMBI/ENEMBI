@@ -9,7 +9,7 @@ Constantly learning new things and interested in difficult tasks
   
 ---
 What you can get when work with me:  
-  * QA Automation framework from scratch  
+  * QA Automation framework for you product from scratch (using existing automation framework as base) 
   * Manual/Automation Web Testing  
   * Manual/Automation Mobile App Testing (IOS / Android)  
   * Functional Testing/Regression/Acceptance Testing  
